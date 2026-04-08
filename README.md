@@ -4,6 +4,11 @@
 
 This project is a **Multi-Agent AI Productivity Assistant** built using **Google Agent Development Kit (ADK)** and **Google Cloud Datastore**.
 
+## Sample Image
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/a1098605-e0d1-4a14-8c50-778dcd6f7d30" />
+
+
 It demonstrates how multiple AI agents can collaborate to manage:
 
 * ✅ Tasks
